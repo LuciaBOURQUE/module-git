@@ -1,3 +1,4 @@
 Title : Welcome
 Content : HTML & CSS
-body: This is the body youwhou
+body: This is the body
+footer: Copyright 2023
